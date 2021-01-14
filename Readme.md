@@ -1,9 +1,9 @@
-<h1 align="center"> <img src="./Hi.gif" width="40px" height="30px"> Hello_World ! <img src="./tenor.gif" width="40px" height="30px">  </h1> 
+<h1 align="center"> <img src="./Hi.gif" width="40px" height="30px"> SGVsbG9fV29ybGQ= <img src="./tenor.gif" width="40px" height="30px">  </h1> 
 
 
 <br />
 
-- 🌱 Currently learning **![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat-square&logo=Asm&logoColor=000000) & ![Go](https://img.shields.io/badge/-Go-61DACF?style=flat-square&logo=Go&logoColor=white)**
+- 🌱 Currently learning **![Assembly](https://img.shields.io/badge/-Assembly-white?style=flat-square&logo=Assembly&logoColor=000000) &  ![Go](https://img.shields.io/badge/-Go-61DACF?style=flat-square&logo=Go&logoColor=white)**
 
 - 💻 Currently working on PenTester BootCamp which will be soon open sourced
 
@@ -50,7 +50,7 @@ Devops:
 
 <br />
 
-Os:
+OS:
 
 ![Linux](http://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux&logoColor=black)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
