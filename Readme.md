@@ -4,7 +4,7 @@
 
 <br />
 
-- 🌱 On-progress : **Assembly, Go**
+- 🌱 On-progress : **Assembly & Go**
 
 <br />
 
