@@ -1,6 +1,5 @@
 <h1 align="center">Hello World! <img src="./Hi.gif" width="40px" height="30px"></h1> 
 
-<h3 align="center"> CyberSecurity | Developer | CTF </h3>
 
 <br />
 
