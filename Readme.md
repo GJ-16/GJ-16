@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 Currently learning **![Assembly](https://img.shields.io/badge/-Assembly-white?style=flat-square&logo=Assembly&logoColor=000000) &  ![Go](https://img.shields.io/badge/-Go-61DACF?style=flat-square&logo=Go&logoColor=white)**
+- 🌱 Currently learning **Assembly & Go**
 
 - 💻 Currently working on PenTester BootCamp which will be soon open sourced
 
@@ -65,3 +65,5 @@ Other:
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=ffffff)
 
 <br />
+
+---
