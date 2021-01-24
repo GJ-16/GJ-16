@@ -2,7 +2,7 @@
 
 <br/>
 
-<script src="https://tryhackme.com/badge/56034"></script>
+
 
 <br />
 
