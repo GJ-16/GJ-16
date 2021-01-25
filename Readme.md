@@ -1,4 +1,4 @@
-<h3  align="center"> Hello <img src="./tenor.gif" width="40px" height="30px">  </h3>
+<h3  align="center"> Hello <img src="./tenor.gif" width="25px" height="15px">  </h3>
 
 ---
 
