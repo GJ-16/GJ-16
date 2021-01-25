@@ -1,4 +1,10 @@
-<h2 align="center"> Hello <img src="./tenor.gif" width="40px" height="30px">  </h2> 
+<p  align="center"> Hello <img src="./tenor.gif" width="40px" height="30px">  </p> 
+
+<style>
+p{
+  font-size:25px;
+}
+</style>
 
 ---
 
