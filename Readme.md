@@ -1,4 +1,4 @@
-<h1 align="center"> "Hello <img src="./tenor.gif" width="40px" height="30px">"  </h1> 
+<h1 align="center"> Hello <img src="./tenor.gif" width="40px" height="30px">  </h1> 
 
 <br/>
 
