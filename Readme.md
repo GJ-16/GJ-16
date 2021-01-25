@@ -6,8 +6,6 @@
 
 <br />
 
-<br />
-
 - 🌱 Currently learning **Assembly & Go**
 
 - 💻 Currently working on PenTester BootCamp which will be soon open sourced
